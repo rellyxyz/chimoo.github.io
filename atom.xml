@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.oneidr.cn/</id>
-    <title>Gridea</title>
-    <updated>2021-10-10T06:01:22.607Z</updated>
+    <id>https://oneidr.cn</id>
+    <title>赤墨Chimo</title>
+    <updated>2021-10-10T12:55:57.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.oneidr.cn/"/>
-    <link rel="self" href="https://www.oneidr.cn/atom.xml"/>
+    <link rel="alternate" href="https://oneidr.cn"/>
+    <link rel="self" href="https://oneidr.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.oneidr.cn/images/avatar.png</logo>
-    <icon>https://www.oneidr.cn/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <logo>https://oneidr.cn/images/avatar.png</logo>
+    <icon>https://oneidr.cn/favicon.ico</icon>
+    <rights>All rights reserved 2021, 赤墨Chimo</rights>
 </feed>
